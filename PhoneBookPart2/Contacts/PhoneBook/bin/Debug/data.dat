@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <PhoneBook>
+    <PhoneNumber>791453123</PhoneNumber>
+    <FullName>Patryk Ora</FullName>
+    <Email>Orapat@gmail.com</Email>
+    <Birthday>12.03.2053</Birthday>
+    <ID>-6</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>123456789</PhoneNumber>
+    <FullName>Olaf Rogala</FullName>
+    <Email>Olala@gmail.com</Email>
+    <Birthday>02.05.2077</Birthday>
+    <ID>-14</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>987654321</PhoneNumber>
+    <FullName>Pedro Seldo</FullName>
+    <Email>Pedro@gmail.com</Email>
+    <Birthday>12.11.1091</Birthday>
+    <ID>-15</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>791487330</PhoneNumber>
+    <FullName>Stepan Lukashevich</FullName>
+    <Email>st.luka2001@gmail.com</Email>
+    <Birthday>13.10.2001</Birthday>
+    <ID>-16</ID>
+  </PhoneBook>
+</AppData>
